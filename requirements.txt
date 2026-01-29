@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+simpy
+shapely
+networkx
+deap
+ortools
+streamlit
+jupyter

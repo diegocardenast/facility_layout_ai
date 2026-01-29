@@ -1,0 +1,9 @@
+from,to,volume
+Courier Dock,Accessioning,500
+Accessioning,Centrifuge,400
+Centrifuge,Chemistry,200
+Centrifuge,Hematology,200
+Chemistry,Immunology,150
+Chemistry,Cold Storage,50
+Hematology,Cold Storage,30
+Accessioning,Waste,20
